@@ -10,6 +10,7 @@
   height: 100vh;
 }
 
+
 .city{
   position: absolute;
   background-repeat: no-repeat;
@@ -37,5 +38,10 @@ div h2{
   transform: translate(-50%, -50%);
   font-size: 60px;
   color: #ffffff;
+  text-shadow: 4px 4px #000000;
+}
 
+a{
+  color: #ffffff;
+  text-decoration: none;
 }
